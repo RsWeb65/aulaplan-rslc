@@ -16,4 +16,4 @@ serviceAccount*.json
 .DS_Store
 coverage/
 playwright-report/
-test-results/
+            test-results/
